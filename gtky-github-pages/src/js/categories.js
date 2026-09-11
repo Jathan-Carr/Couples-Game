@@ -1,0 +1,71 @@
+export const CATEGORIES = {
+  surface: {
+    hobbies: { label: "Hobbies", emoji: "🎯" },
+    music: { label: "Music", emoji: "🎵" },
+    movies: { label: "Movies & TV", emoji: "🎬" },
+    food: { label: "Food", emoji: "🍕" },
+    travel: { label: "Travel", emoji: "✈️" },
+    interests: { label: "Interests", emoji: "🎨" },
+    sports: { label: "Sports", emoji: "⚽" },
+    animals: { label: "Animals", emoji: "🐶" },
+    games: { label: "Games", emoji: "🎮" },
+    school: { label: "School", emoji: "🏫" },
+    work: { label: "Work", emoji: "💼" },
+    places: { label: "Places", emoji: "🌎" },
+    lifestyle: { label: "Lifestyle", emoji: "☀️" },
+    fun: { label: "Fun / Random", emoji: "😂" },
+  },
+  personal: {
+    personality: { label: "Personality", emoji: "🧠" },
+    friendship: { label: "Friendship", emoji: "👥" },
+    relationships: { label: "Relationships", emoji: "❤️" },
+    goals: { label: "Goals", emoji: "🎯" },
+    accomplishments: { label: "Accomplishments", emoji: "🏆" },
+    memories: { label: "Memories", emoji: "📖" },
+    growth: { label: "Growth", emoji: "🌱" },
+    family: { label: "Family", emoji: "👨‍👩‍👧" },
+    opinions: { label: "Opinions", emoji: "💭" },
+    embarrassing: { label: "Embarrassing Moments", emoji: "😅" },
+    habits: { label: "Habits", emoji: "🧩" },
+    emotions: { label: "Emotions", emoji: "🎭" },
+    experiences: { label: "Life Experiences", emoji: "🛤️" },
+  },
+  deep: {
+    love: { label: "Love", emoji: "❤️" },
+    connection: { label: "Connection", emoji: "🫂" },
+    identity: { label: "Identity", emoji: "🧠" },
+    selfImage: { label: "Self-Image", emoji: "🪞" },
+    vulnerability: { label: "Vulnerability", emoji: "😔" },
+    fear: { label: "Fear", emoji: "😨" },
+    growth: { label: "Personal Growth", emoji: "🌱" },
+    regret: { label: "Regret", emoji: "🕰️" },
+    meaning: { label: "Meaning", emoji: "🌎" },
+    purpose: { label: "Purpose", emoji: "🎯" },
+    future: { label: "Future", emoji: "🔮" },
+    values: { label: "Values & Beliefs", emoji: "💭" },
+    relationships: { label: "Relationships", emoji: "💗" },
+    needs: { label: "Emotional Needs", emoji: "🧠" },
+  },
+  together: {
+    everyday: { label: "Everyday", emoji: "🛒" },
+    comfort: { label: "Comfort", emoji: "🫧" },
+    noticing: { label: "Noticing", emoji: "👀" },
+    hope: { label: "Hope", emoji: "🕯️" },
+    play: { label: "Play", emoji: "🎈" },
+    care: { label: "Care", emoji: "🫶" },
+    us: { label: "Us", emoji: "💌" },
+    future: { label: "Future", emoji: "🌙" },
+  },
+};
+
+export const LEVELS = {
+  surface: { label: "Surface", blurb: "What do you like?", emoji: "🟢" },
+  personal: { label: "Personal", blurb: "Who are you?", emoji: "🟡" },
+  deep: { label: "Deep", blurb: "What makes you, you?", emoji: "🔴" },
+  together: { label: "Together", blurb: "What are we, to each other?", emoji: "💗" },
+  random: { label: "Random", blurb: "Every question, shuffled together.", emoji: "🎲" },
+};
+
+export function categoryMeta(level, category) {
+  return CATEGORIES[level]?.[category] || { label: category, emoji: "💬" };
+}

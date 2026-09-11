@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 751,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "If you went to the store, what snack or drink would I be, and why?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 752,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I do that makes you feel the most comfortable and safe?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 753,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What is one thing about me you hope never changes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 754,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What do I order that you secretly think of as my drink?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 755,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What's my tell when I'm pretending I'm not tired?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 756,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If my laugh were a sound in the house, what would it be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 757,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's the first thing you notice when I walk into a room?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 758,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What weather am I, on a regular Tuesday?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 759,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's a small habit of mine you could pick me out of a crowd by?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 760,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a time of day, which one, and why?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 761,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's something I always do with my hands when I'm thinking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 762,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What song starts playing in your head when I text you first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 763,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's my version of coming home?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 764,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a seat in a café, which one would I claim?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 765,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's a tiny thing I do in the morning that you've started to wait for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 766,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What color do I leave in a room after I leave it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 767,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's the face I make when I'm trying not to smile?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 768,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a grocery-store aisle, which one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 769,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's something I always check twice, even when I don't need to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 770,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What do I sound like when I'm concentrating?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 771,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's my unofficial uniform when nobody's watching?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 772,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a kind of rain, what kind?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 773,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's a phrase I say that already belongs to both of us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 774,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What do I do with leftovers that tells you who I am?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 775,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's my tell when a room is too loud for me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 776,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a kitchen tool, which one, and why?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 777,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's something I always notice that other people miss?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 778,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What time of night am I most myself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 779,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's the first thing I reach for when I sit down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 780,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If my energy had a temperature, what's the usual setting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 781,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's a chore I make look strangely tender?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 782,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "What do I do when I don't know where to put my hands?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 783,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 2,
+    "question": "What's my version of knocking on wood?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 784,
+    "level": "together",
+    "category": "everyday",
+    "intensity": 1,
+    "question": "If I were a mug in the cupboard, which one would I be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 785,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "When I'm quiet, how do you know whether to come closer or let me be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 786,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a way I take care of you that I might not even count as care?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 787,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "Where in a room do you feel safest sitting with me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 788,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I do with my voice that settles you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 789,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "When you're spiraling, what's the first thing I do that actually helps?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 790,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a boundary of yours I respect in a way that makes you trust me more?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 791,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's my version of a weighted blanket?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 792,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "When have I made a hard day feel smaller just by being in it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 793,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's something I never rush you through?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 794,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a way I hold space that you wish more people knew how to do?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 795,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's the safest version of silence we have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 796,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I do after a fight that tells you we're still us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 797,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "Where do I put my hand that you don't have to ask for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 798,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a fear of yours I treat as real, not dramatic?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 799,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's my tell that I'm listening with my whole body, not just waiting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 800,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I protect for you without making a speech about it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 801,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "When you're overstimulated, what do I do that actually lands?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 802,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a way I've shown you that your softness is not a problem here?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 803,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's the kindest correction you've ever felt from me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 804,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I remember about your body that isn't about looking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 805,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "When you can't find words, how do I usually meet you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 806,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a way I make our home feel like yours, not just mine?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 807,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's my version of sitting on the floor with you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 808,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I do that lets you be messy without performing okayness?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 809,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's the check-in from me that never feels like a quiz?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 810,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "When have I stayed when leaving would have been easier to look at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 811,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's a small ritual we have that is actually a safety net?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 812,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's something I never use against you later?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 813,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "How do you know, in my face, that you're not too much?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 814,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 3,
+    "question": "What's a way I repair that you trust more than an apology alone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 815,
+    "level": "together",
+    "category": "comfort",
+    "intensity": 2,
+    "question": "What's the temperature of the room when I'm being gentle on purpose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 816,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What quality of mine do you hope I never sand down to be easier?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 817,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's a way I love that you hope I keep even if the world rewards a colder version?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 818,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's something about how I move through a day that you never want me to optimize away?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 819,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's a stubbornness in me you hope I keep?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 820,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a softness you hope I never apologize for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 821,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's one way I laugh that you hope never gets quieter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 822,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a curiosity of mine you hope doesn't get practical and die?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 823,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's a loyalty in me you hope I never call naïve?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 824,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's something I still get excited about that you hope I never outgrow?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 825,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's a way I tell the truth that you hope I don't learn to sand down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 826,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a ritual of mine that looks small and you hope I keep forever?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 827,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's a kindness I do when nobody's scoring that you hope I never stop?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 828,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's something about my taste you hope never becomes 'more mature'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 829,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's a way I take people seriously that you hope I never call embarrassing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 830,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a weird little hope I have that you want me to keep saying out loud?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 831,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's a way I rest that you hope I never treat as lazy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 832,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's something I still believe that you hope the years don't talk me out of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 833,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's a way I show up for other people that you hope I keep showing up for myself, too?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 834,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a messiness in me you hope I never fully tidy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 835,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's one thing about how I love you that you hope stays this specific?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 836,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a song, joke, or bit of me you hope never gets retired?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 837,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's a way I get earnest that you hope I never learn to be cooler than?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 838,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's something I do with mornings you hope I keep?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 839,
+    "level": "together",
+    "category": "hope",
+    "intensity": 4,
+    "question": "What's a way I forgive that you hope I never confuse with forgetting myself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 840,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a childhood leftover in me you hope I never fully put away?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 841,
+    "level": "together",
+    "category": "hope",
+    "intensity": 3,
+    "question": "What's one thing about my attention you hope never gets divided into nothing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 842,
+    "level": "together",
+    "category": "hope",
+    "intensity": 2,
+    "question": "What's a way I get nerdy that you hope I never hide?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 843,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I think I hide well that you see anyway?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 844,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a tiny change in me you notice before I mention it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 845,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's my tell when I like someone in a room and I'm trying to be cool?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 846,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a way I light up that I don't think anyone clocks?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 847,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I always underestimate about myself that you don't?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 848,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's the first thing that goes quiet in me when I'm sad?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 849,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a pride I have that I pretend is casual?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 850,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's my tell when I'm about to be brave?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 851,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's something I always notice on other people first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 852,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a way I get shy that looks like something else?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 853,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's the version of me that shows up when I'm around my people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 854,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's my tell that a compliment actually landed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 855,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I protect with a joke?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 856,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a skill of mine you use more than I admit I have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 857,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's the face I make when I'm translating my feelings into something polite?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 858,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a way I take up space that you love watching?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 859,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I'm tender about that I file under 'practical'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 860,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's my tell when I'm impressed and trying not to show it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 861,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a contradiction in me that you find oddly consistent?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 862,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I always remember that surprises even me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 863,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's the way I enter a conversation I'm not sure I belong in?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 864,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a kindness I do that I would never put on a résumé?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 865,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's my tell when I'm homesick for a version of myself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 866,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's something I collect without calling it collecting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 867,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a way I get competitive that you find endearing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 868,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I always do for strangers that tells you my ethics?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 869,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's the posture I take when I'm listening to something I might disagree with?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 870,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a dream of mine I mention like it's a joke?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 871,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's my tell when I'm proud of you and trying to play it cool?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 872,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 1,
+    "question": "What's something I always underestimate until I'm in the middle of it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 873,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's a way I get quiet that means I'm actually full, not empty?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 874,
+    "level": "together",
+    "category": "noticing",
+    "intensity": 2,
+    "question": "What's something I notice about rooms that other people walk past?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 875,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a board game, which one, and would you still play me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 876,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a bit we do that you hope we never explain to anyone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 877,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we had a theme song nobody else was allowed to use, what would it be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 878,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's the funniest thing I do when I think I'm being smooth?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 879,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a dessert, too sweet or the good kind of too much?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 880,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a dare you'd only give me, never a stranger?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 881,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we opened a tiny shop, what would we sell badly and love anyway?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 882,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's my funniest 'I'm an expert' voice, and what subject is it always about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 883,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a carnival ride, which one, and would you get on twice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 884,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a nickname you've almost given me and then swallowed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 885,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we were a weather system, what would the forecast say?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 886,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's the silliest way I try to win an argument?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 887,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a plant, indoor or feral, and how often do I need water?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 888,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a conspiracy we have about a stranger we've only seen once?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 889,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If my laugh were a sitcom character, who?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 890,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's something I do that always makes you snort even when the room is serious?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 891,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we had a secret handshake, what would the last move be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 892,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's my most committed bit when I'm trying to make you laugh on a bad day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 893,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a midnight snack, leftovers or something we have to make?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 894,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a game I take too seriously, and do you let me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 895,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we were a two-person band, who plays what, and what's our one hit?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 896,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's the dumbest hill I'll die on that you find charming?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 897,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a texting style, punctuation or chaos?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 898,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a voice I do that you can never unhear?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 899,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we got matching tattoos that were a little ugly on purpose, what would they be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 900,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's my tell when I'm about to be unhinged in a fun way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 901,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a holiday, which one, and would the decorations be extra?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 902,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a bit of gossip we'd never spread, but we'd definitely discuss?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 903,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If we had a flag, what would be on it that we'd never explain?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 904,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's the funniest way I say I love you without saying I love you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 905,
+    "level": "together",
+    "category": "play",
+    "intensity": 1,
+    "question": "If I were a pair of shoes, practical or a problem, and why?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 906,
+    "level": "together",
+    "category": "play",
+    "intensity": 2,
+    "question": "What's a movie we'd recast ourselves in, badly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 907,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I show love that doesn't look like the movies?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 908,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always remember to ask about later?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 909,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "When I'm taking care of you, what do you wish I'd let you do for me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 910,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's a practical thing I do that you feel in your chest?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 911,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I check on you that never feels like surveillance?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 912,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always pack for you, emotionally?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 913,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's a need of yours I met before you had language for it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 914,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's my version of bringing soup?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 915,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I advocate for you when you're not in the room?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 916,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always do after you've had a hard conversation with someone else?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 917,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's a way I love you that I learned, not that I arrived knowing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 918,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's the errand I run that is actually devotion?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 919,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's something I never make you earn?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 920,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's my tell that I'm about to take something off your plate?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 921,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's a way I stay when your mood isn't convenient?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 922,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always notice you're carrying before you set it down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 923,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I make your body feel like a place, not a project?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 924,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's the text I send that is actually a hand on your back?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 925,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's something I protect in you that you used to think you had to hide?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 926,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's my version of waiting up?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 927,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I love you that costs me a little pride, and you notice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 928,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always do with your name in other people's mouths?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 929,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's a way I show up for the unglamorous version of your life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 930,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's the chore I do that means 'I see the week you're having'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 931,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's something I never make a production of, that is still a gift?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 932,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's my tell when I'm choosing you in a small, boring way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 933,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's a way I hold your stories — do I keep them, return them, or both?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 934,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's something I always do at the end of your hard day without being asked?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 935,
+    "level": "together",
+    "category": "care",
+    "intensity": 4,
+    "question": "What's a way I make asking 'are you okay' feel like a door, not a test?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 936,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's the way I say goodnight that is actually a promise?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 937,
+    "level": "together",
+    "category": "care",
+    "intensity": 3,
+    "question": "What's something I do with your family, or the lack of it, that you feel in your ribs?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 938,
+    "level": "together",
+    "category": "care",
+    "intensity": 2,
+    "question": "What's my version of saving you the last bite?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 939,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a sentence that already belongs to both of us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 940,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "When did we start feeling like a we, and what was the small proof?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 941,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a place that is ours even if other people go there too?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 942,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a story about us you tell yourself when you're scared?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 943,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's something we do badly together that you still love?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 944,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way we're similar that still surprises you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 945,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a way we're different that actually makes the days work?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 946,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's an inside joke that would sound like nothing and means the whole house?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 947,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a photo of us that isn't on a phone, just in your head?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 948,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a hard thing we got through that you wouldn't want to have done with anyone else?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 949,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's our unofficial holiday?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 950,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way I change when you're in the room, for the better?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 951,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's something we always argue about that is actually about care?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 952,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a quiet agreement we have that we've never written down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 953,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's the version of us that shows up at 1 a.m.?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 954,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way we've disappointed each other and still chosen to stay curious?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 955,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a meal that tastes like us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 956,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's something you know about my past that you hold gently?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 957,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a walk we take that isn't really about walking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 958,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way I've become more myself because of you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 959,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's our tell, as a pair, when a room isn't for us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 960,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a fear we share that we don't usually say in company?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 961,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a song that is a timestamp for us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 962,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's something I do that makes you feel chosen, not just included?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 963,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a tradition we accidentally started?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 964,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way we repair that is uniquely ours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 965,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's the object in this house that is actually a memory?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 966,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a compliment about us you'd only say to me, not to a group?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 967,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a silence we have that other people might misread?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 968,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's something about how we fight that you actually trust?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 969,
+    "level": "together",
+    "category": "us",
+    "intensity": 2,
+    "question": "What's a nickname the world doesn't get?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 970,
+    "level": "together",
+    "category": "us",
+    "intensity": 3,
+    "question": "What's a way we take turns being the brave one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 971,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's something you hope we still do when we're older and slower?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 972,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a version of a home you can already half-see with me in it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 973,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's a hard season you hope we get to have together, not avoid?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 974,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a trip that isn't about the destination so much as who we'd be on it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 975,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's one thing you hope I still ask you in ten years?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 976,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a skill you hope we learn side by side?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 977,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's a way you hope we stay beginners with each other?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 978,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a table you hope we keep setting, even if the chairs change?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 979,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's something you hope we never get efficient at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 980,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a future ordinary morning you can already hear?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 981,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's a fear about time you hope we tell the truth about, together?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 982,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a tradition you hope we invent before anyone else names it for us?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 983,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's one way you hope I still look at you when the newness is gone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 984,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a problem you hope we get good at solving as a team?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 985,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's something you hope we still get shy about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 986,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a room you hope we have someday, and what would we do in it at 11 p.m.?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 987,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's a way you hope we talk about money, bodies, or family without flinching?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 988,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a small anniversary you hope we keep, not just the obvious one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 989,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's something you hope we still argue about because it means we still care?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 990,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a version of rest you hope we get better at taking together?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 991,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's one story you hope we get to tell about how we stayed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 992,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a kindness you hope we keep doing for strangers, as a pair?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 993,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's something you hope never becomes 'just how we are' if it starts to hurt?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 994,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a future quiet you can already sit in with me?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 995,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's a way you hope we keep choosing each other when it's boring?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 996,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a garden, literal or not, you hope we tend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 997,
+    "level": "together",
+    "category": "future",
+    "intensity": 3,
+    "question": "What's one thing you hope I never stop telling you, even when you already know?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 998,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's a door you hope we leave unlocked for each other?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 999,
+    "level": "together",
+    "category": "future",
+    "intensity": 4,
+    "question": "What's a future version of us you'd like to leave a note for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 1000,
+    "level": "together",
+    "category": "future",
+    "intensity": 2,
+    "question": "What's something you hope we still get lost looking for, on purpose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  }
+]

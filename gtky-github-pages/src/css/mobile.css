@@ -1,0 +1,44 @@
+@media (max-width: 850px) {
+  .mode-list,
+  .level-list,
+  .duo-layout,
+  .reveal-grid.two {
+    grid-template-columns: 1fr;
+  }
+
+  .mode {
+    min-height: 260px;
+  }
+
+  .mode:last-child { border-right: 1px solid var(--border); }
+
+  .scribble {
+    opacity: 0.45;
+    right: -16px;
+    width: 90px;
+    height: 90px;
+  }
+
+  .desktop-only { display: none; }
+}
+
+@media (max-width: 600px) {
+  .container { width: min(calc(100% - 28px), var(--content-width)); }
+  .site-header { position: relative; }
+  .nav { min-height: 64px; }
+  .logo { font-size: 1.4rem; }
+  .hero { padding-top: 2.4rem; }
+  .hero-actions, .question-actions, .actions-row { flex-direction: column; }
+  .hero-actions .button,
+  .question-actions .button,
+  .actions-row .button,
+  .actions-row .btn { width: 100%; }
+  .send { width: 52px; }
+  .game-body { min-height: 420px; padding: 1.1rem; }
+  .deck-stack { height: 380px; }
+  .card-stage { min-height: 380px; }
+  .footer-inner { flex-direction: column; }
+  .walker-pup { width: 112px; height: 84px; }
+  .walker-pup svg { width: 96px; height: 64px; }
+  .nav-kicker { display: none !important; }
+}

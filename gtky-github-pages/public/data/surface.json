@@ -1,0 +1,3802 @@
+[
+  {
+    "id": 1,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's a hobby you could talk about for hours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 2,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's something you do to unwind after a long day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 3,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 3,
+    "question": "What's a hobby you tried once and immediately loved?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 4,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's a hobby you tried and quietly dropped?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 5,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "Do you prefer hobbies you do alone or with other people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Alone",
+      "With people"
+    ]
+  },
+  {
+    "id": 6,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 4,
+    "question": "What's a hobby people might not expect you to have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 7,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 3,
+    "question": "What's something you've made with your hands that you're proud of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 8,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's a hobby you'd pick up if time and money weren't a factor?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 9,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's the most 'you' way to spend a free Saturday?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 10,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "Do you like finishing projects or starting them more?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Finishing",
+      "Starting"
+    ]
+  },
+  {
+    "id": 11,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's a skill you taught yourself just for fun?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 12,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 3,
+    "question": "What's something you could happily do every week for the rest of your life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 13,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's a hobby that always puts you in a better mood?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 14,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "Indoor hobby or outdoor hobby — which feels more like you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Indoor",
+      "Outdoor"
+    ]
+  },
+  {
+    "id": 15,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 3,
+    "question": "What's a collection you have, or secretly want to start?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 16,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's the last thing you got genuinely excited to learn?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 17,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 2,
+    "question": "What's something you do that feels like play, not work?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 18,
+    "level": "surface",
+    "category": "hobbies",
+    "intensity": 3,
+    "question": "What's a hobby you wish more people asked you about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 19,
+    "level": "surface",
+    "category": "music",
+    "intensity": 1,
+    "question": "What's a song that instantly improves your mood?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 20,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What kind of music do you put on when you're getting ready?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 21,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "Live concert or headphones-on-the-couch?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Live concert",
+      "Headphones at home"
+    ]
+  },
+  {
+    "id": 22,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's an album you could replay without getting tired of it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 23,
+    "level": "surface",
+    "category": "music",
+    "intensity": 3,
+    "question": "What was the first song or artist you ever really loved?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 24,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "Do you notice lyrics first or the beat first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Lyrics",
+      "The beat"
+    ]
+  },
+  {
+    "id": 25,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's your go-to karaoke song, even if you never karaoke?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 26,
+    "level": "surface",
+    "category": "music",
+    "intensity": 1,
+    "question": "What's a genre people are surprised you like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 27,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "Morning music or late-night music — which is more you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Morning",
+      "Late night"
+    ]
+  },
+  {
+    "id": 28,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's a song that reminds you of a specific season?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 29,
+    "level": "surface",
+    "category": "music",
+    "intensity": 3,
+    "question": "If you could only keep one playlist, what would it be for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 30,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's a concert you would drop everything to attend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 31,
+    "level": "surface",
+    "category": "music",
+    "intensity": 1,
+    "question": "What's your favorite kind of background music while working?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 32,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's a song you know every word to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 33,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's something you like that isn't considered 'cool' musically?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 34,
+    "level": "surface",
+    "category": "music",
+    "intensity": 3,
+    "question": "What music did the people who raised you play around the house?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 35,
+    "level": "surface",
+    "category": "music",
+    "intensity": 1,
+    "question": "Headphones or speakers?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Headphones",
+      "Speakers"
+    ]
+  },
+  {
+    "id": 36,
+    "level": "surface",
+    "category": "music",
+    "intensity": 2,
+    "question": "What's a movie or show soundtrack you actually listen to on its own?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 37,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 1,
+    "question": "What's a movie you can rewatch anytime?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 38,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's the last show you got genuinely hooked on?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 39,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "Comfort movie or brand-new release?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Comfort movie",
+      "Something new"
+    ]
+  },
+  {
+    "id": 40,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's a character you felt oddly understood by?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 41,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 1,
+    "question": "What's your favorite movie snack?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 42,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 3,
+    "question": "What's a film that surprised you by making you cry?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 43,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "Do you like watching with commentary, or in silence?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Talking through it",
+      "Silence, please"
+    ]
+  },
+  {
+    "id": 44,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's a TV show you wish more people had seen?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 45,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 1,
+    "question": "Animated or live-action, if you had to pick tonight?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Animated",
+      "Live-action"
+    ]
+  },
+  {
+    "id": 46,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's a movie you loved as a kid that still holds up?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 47,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "Binge a whole season or one episode at a time?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Binge",
+      "One at a time"
+    ]
+  },
+  {
+    "id": 48,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 3,
+    "question": "What's a story you keep recommending even if no one asked?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 49,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's your favorite kind of ending: neat or messy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Neat",
+      "Messy"
+    ]
+  },
+  {
+    "id": 50,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 1,
+    "question": "Subtitled or dubbed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Subtitles",
+      "Dubbed"
+    ]
+  },
+  {
+    "id": 51,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "What's a guilty-pleasure show you will not apologize for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 52,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "Theater or couch?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Theater",
+      "Couch"
+    ]
+  },
+  {
+    "id": 53,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 3,
+    "question": "What's a movie quote you use in real life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 54,
+    "level": "surface",
+    "category": "movies",
+    "intensity": 2,
+    "question": "If your life had a genre, what would it be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 55,
+    "level": "surface",
+    "category": "food",
+    "intensity": 1,
+    "question": "What's your favorite comfort food?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 56,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's a meal you could eat once a week forever?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 57,
+    "level": "surface",
+    "category": "food",
+    "intensity": 1,
+    "question": "Sweet or savory, most days?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Sweet",
+      "Savory"
+    ]
+  },
+  {
+    "id": 58,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's a food you loved as a kid and still love?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 59,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's a food everyone likes that you just... don't?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 60,
+    "level": "surface",
+    "category": "food",
+    "intensity": 3,
+    "question": "What's a meal that feels like home to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 61,
+    "level": "surface",
+    "category": "food",
+    "intensity": 1,
+    "question": "Coffee, tea, or neither?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Coffee",
+      "Tea"
+    ]
+  },
+  {
+    "id": 62,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's your go-to order when you can't decide?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 63,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "Cooking for fun or cooking for fuel?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "For fun",
+      "For fuel"
+    ]
+  },
+  {
+    "id": 64,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's a snack you pretend is a rare treat but is not?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 65,
+    "level": "surface",
+    "category": "food",
+    "intensity": 1,
+    "question": "Breakfast for dinner: yes or no?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "id": 66,
+    "level": "surface",
+    "category": "food",
+    "intensity": 4,
+    "question": "What's a dish you'd want to learn from someone who makes it well?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 67,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "Spicy food: bring it on or keep it mild?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Bring it on",
+      "Keep it mild"
+    ]
+  },
+  {
+    "id": 68,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's a restaurant you'd take someone to if you wanted them to like you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 69,
+    "level": "surface",
+    "category": "food",
+    "intensity": 1,
+    "question": "Pizza topping you will always defend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 70,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "What's something you could teach someone to cook in 20 minutes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 71,
+    "level": "surface",
+    "category": "food",
+    "intensity": 2,
+    "question": "Sit-down meal or picnic-style eating?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Sit-down",
+      "Picnic-style"
+    ]
+  },
+  {
+    "id": 72,
+    "level": "surface",
+    "category": "food",
+    "intensity": 3,
+    "question": "What's a food memory that still makes you smile?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 73,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Where would you love to travel next?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 74,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Beach trip or city trip?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Beach",
+      "City"
+    ]
+  },
+  {
+    "id": 75,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 3,
+    "question": "What's a place that felt more like you than you expected?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 76,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Do you overpack or underpack?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Overpack",
+      "Underpack"
+    ]
+  },
+  {
+    "id": 77,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 1,
+    "question": "Window seat or aisle?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Window",
+      "Aisle"
+    ]
+  },
+  {
+    "id": 78,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "What's a trip you still talk about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 79,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 3,
+    "question": "Would you rather travel slow for a month or pack a week with highlights?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Slow month",
+      "Packed week"
+    ]
+  },
+  {
+    "id": 80,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "What's your favorite thing to do in a new city on day one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 81,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Adventure itinerary or wander with no plan?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Itinerary",
+      "Wander"
+    ]
+  },
+  {
+    "id": 82,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 1,
+    "question": "Mountains or ocean?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Mountains",
+      "Ocean"
+    ]
+  },
+  {
+    "id": 83,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 3,
+    "question": "What's a place from your childhood you'd like to visit again?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 84,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "What's a souvenir you actually keep?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 85,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Road trip playlist: yours or whoever's driving?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Mine",
+      "The driver's"
+    ]
+  },
+  {
+    "id": 86,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 1,
+    "question": "Early flight or red-eye?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Early flight",
+      "Red-eye"
+    ]
+  },
+  {
+    "id": 87,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 3,
+    "question": "If money weren't a factor, where would you live for a year?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 88,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "What's the best food you've ever eaten while traveling?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 89,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "Museum day or outdoor day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Museum",
+      "Outdoors"
+    ]
+  },
+  {
+    "id": 90,
+    "level": "surface",
+    "category": "travel",
+    "intensity": 2,
+    "question": "What's a tiny travel luxury you refuse to skip?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 91,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's something you're casually obsessed with right now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 92,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 3,
+    "question": "What's a topic you can nerd out about with almost no prompting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 93,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "Do you fall into Wikipedia holes, or do you bounce off them?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I fall in",
+      "I bounce off"
+    ]
+  },
+  {
+    "id": 94,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's a book, podcast, or essay that stuck with you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 95,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 1,
+    "question": "What's a random fact you love telling people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 96,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "Are you more into making things or finding things?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Making",
+      "Finding"
+    ]
+  },
+  {
+    "id": 97,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 3,
+    "question": "What's an interest you outgrew, and do you miss it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 98,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's something you want to learn just because it's cool?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 99,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "Museums, thrift stores, or record shops — pick a happy place.",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 100,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 1,
+    "question": "Do you like puzzles, trivia, or neither?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Puzzles",
+      "Trivia"
+    ]
+  },
+  {
+    "id": 101,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's a documentary topic you'd actually watch?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 102,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 3,
+    "question": "What's a question you've been turning over lately for fun?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 103,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "Are you a collector or a minimalist with your stuff?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Collector",
+      "Minimalist"
+    ]
+  },
+  {
+    "id": 104,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's a skill that's useless and delightful?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 105,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 1,
+    "question": "Physical books or e-books?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Physical",
+      "E-books"
+    ]
+  },
+  {
+    "id": 106,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's a style of art, fashion, or design you're drawn to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 107,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 2,
+    "question": "What's something you researched way too deeply for no reason?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 108,
+    "level": "surface",
+    "category": "interests",
+    "intensity": 3,
+    "question": "If you had a tiny museum of your life, what would be in it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 109,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 1,
+    "question": "Do you like watching sports, playing them, both, or neither?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 110,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's a sport you enjoy even if you're not great at it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 111,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "Team sports or solo sports?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Team",
+      "Solo"
+    ]
+  },
+  {
+    "id": 112,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 1,
+    "question": "What's your casual 'I'll play if asked' sport?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 113,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 3,
+    "question": "Was there a sport that mattered a lot to you growing up?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 114,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's more fun: playing, watching, or the snacks?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Playing",
+      "Watching"
+    ]
+  },
+  {
+    "id": 115,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's a sports moment you still remember?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 116,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 1,
+    "question": "Early-morning workout or evening workout?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Morning",
+      "Evening"
+    ]
+  },
+  {
+    "id": 117,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "Competitive or just-for-fun when you play?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Competitive",
+      "Just for fun"
+    ]
+  },
+  {
+    "id": 118,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's an active thing you'd like to try once?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 119,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 1,
+    "question": "Walk, run, or bike?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Walk",
+      "Bike"
+    ]
+  },
+  {
+    "id": 120,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 3,
+    "question": "Did you ever surprise yourself by being decent at something physical?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 121,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's your favorite way to be outdoors?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 122,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "Olympics: summer or winter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Summer",
+      "Winter"
+    ]
+  },
+  {
+    "id": 123,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 1,
+    "question": "What's a game-day snack you take seriously?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 124,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "Do you keep score in casual games?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "id": 125,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 2,
+    "question": "What's a sport you don't understand but respect?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 126,
+    "level": "surface",
+    "category": "sports",
+    "intensity": 4,
+    "question": "If you had to join a rec league tomorrow, which one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 127,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "Cats or dogs?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Cats",
+      "Dogs"
+    ]
+  },
+  {
+    "id": 128,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "What's an animal you feel strangely connected to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 129,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "Would you rather have a pet that cuddles or one that's independent?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Cuddles",
+      "Independent"
+    ]
+  },
+  {
+    "id": 130,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "What's the best pet name you've ever heard?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 131,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 4,
+    "question": "Did you have a childhood pet that still lives in your head?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 132,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "Zoo, aquarium, or farm day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Zoo",
+      "Aquarium"
+    ]
+  },
+  {
+    "id": 133,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "What's your spirit animal in the least serious sense?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 134,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "Are you the person who stops to photograph every dog?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "id": 135,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "What's an animal you'd love to see in the wild?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 136,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "Indoor cat life or big backyard energy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Indoor cozy",
+      "Big backyard"
+    ]
+  },
+  {
+    "id": 137,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 3,
+    "question": "What kind of caretaking comes naturally to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 138,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "Birds, fish, or reptiles — unexpected pet of choice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 139,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "What's a cute animal video genre you always watch?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 140,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "Wake up with a pet in your face: dream or nightmare?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Dream",
+      "Nightmare"
+    ]
+  },
+  {
+    "id": 141,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "If you could talk to one species for a day, which?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 142,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 2,
+    "question": "What's an animal people are scared of that you like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 143,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 3,
+    "question": "What would your pet say about your personality?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 144,
+    "level": "surface",
+    "category": "animals",
+    "intensity": 1,
+    "question": "House full of plants and pets, or keep it simple?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Full house",
+      "Keep it simple"
+    ]
+  },
+  {
+    "id": 145,
+    "level": "surface",
+    "category": "games",
+    "intensity": 1,
+    "question": "What's your favorite game right now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 146,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "Board games, video games, or party games?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Board games",
+      "Video games"
+    ]
+  },
+  {
+    "id": 147,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "Do you play to win or play to hang out?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "To win",
+      "To hang out"
+    ]
+  },
+  {
+    "id": 148,
+    "level": "surface",
+    "category": "games",
+    "intensity": 3,
+    "question": "What's a game that meant a lot to you at a certain age?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 149,
+    "level": "surface",
+    "category": "games",
+    "intensity": 1,
+    "question": "Co-op or versus?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Co-op",
+      "Versus"
+    ]
+  },
+  {
+    "id": 150,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "What's a game you're surprisingly good at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 151,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "What's a game you love that you have to explain too much?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 152,
+    "level": "surface",
+    "category": "games",
+    "intensity": 1,
+    "question": "Easy fun or steep learning curve?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Easy fun",
+      "Steep curve"
+    ]
+  },
+  {
+    "id": 153,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "What's your house-rule philosophy: official or chaos?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Official rules",
+      "House chaos"
+    ]
+  },
+  {
+    "id": 154,
+    "level": "surface",
+    "category": "games",
+    "intensity": 3,
+    "question": "Who do you most like playing games with?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 155,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "Puzzle games or story games?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Puzzles",
+      "Story"
+    ]
+  },
+  {
+    "id": 156,
+    "level": "surface",
+    "category": "games",
+    "intensity": 1,
+    "question": "What's a mobile game you will not admit the hours on?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 157,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "Dice, cards, or digital?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Cards",
+      "Digital"
+    ]
+  },
+  {
+    "id": 158,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "What's a game night snack that is non-negotiable?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 159,
+    "level": "surface",
+    "category": "games",
+    "intensity": 3,
+    "question": "What's a game that taught you something about yourself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 160,
+    "level": "surface",
+    "category": "games",
+    "intensity": 1,
+    "question": "Single-player evening or multiplayer chaos?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Single-player",
+      "Multiplayer"
+    ]
+  },
+  {
+    "id": 161,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "What's a childhood game you can still play by heart?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 162,
+    "level": "surface",
+    "category": "games",
+    "intensity": 2,
+    "question": "If GTKY had a boss level, what would it be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 163,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What subject did you secretly (or not secretly) like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 164,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "Group project: leader, helper, or last-minute hero?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Leader",
+      "Helper"
+    ]
+  },
+  {
+    "id": 165,
+    "level": "surface",
+    "category": "school",
+    "intensity": 3,
+    "question": "Who was a teacher that actually got through to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 166,
+    "level": "surface",
+    "category": "school",
+    "intensity": 1,
+    "question": "Did you prefer tests or projects?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Tests",
+      "Projects"
+    ]
+  },
+  {
+    "id": 167,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What was your school lunch personality?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 168,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "Were you early to class or sliding in on time?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Early",
+      "Right on time"
+    ]
+  },
+  {
+    "id": 169,
+    "level": "surface",
+    "category": "school",
+    "intensity": 3,
+    "question": "What's something school made you think you weren't good at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 170,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What club, team, or hallway role felt like yours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 171,
+    "level": "surface",
+    "category": "school",
+    "intensity": 1,
+    "question": "Handwriting or typing — which feels more like thinking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Handwriting",
+      "Typing"
+    ]
+  },
+  {
+    "id": 172,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What's a school smell, sound, or season you remember clearly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 173,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "Did you decorate your notebooks or keep them plain?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Decorate",
+      "Plain"
+    ]
+  },
+  {
+    "id": 174,
+    "level": "surface",
+    "category": "school",
+    "intensity": 3,
+    "question": "What's a lesson you learned outside the lesson plan?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 175,
+    "level": "surface",
+    "category": "school",
+    "intensity": 1,
+    "question": "Library kid or gym kid?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Library",
+      "Gym"
+    ]
+  },
+  {
+    "id": 176,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What's a class you wish you'd taken?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 177,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "Were you the highlighter type or the 'I'll remember it' type?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Highlighter",
+      "I'll remember"
+    ]
+  },
+  {
+    "id": 178,
+    "level": "surface",
+    "category": "school",
+    "intensity": 3,
+    "question": "What did 'doing well' mean to you back then?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 179,
+    "level": "surface",
+    "category": "school",
+    "intensity": 2,
+    "question": "What's a school friendship dynamic you still think about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 180,
+    "level": "surface",
+    "category": "school",
+    "intensity": 1,
+    "question": "Field trip energy: excited or socially tired?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Excited",
+      "Socially tired"
+    ]
+  },
+  {
+    "id": 181,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's a small part of your workday you actually like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 182,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "Headphones on or door-open collaborator?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Headphones on",
+      "Door open"
+    ]
+  },
+  {
+    "id": 183,
+    "level": "surface",
+    "category": "work",
+    "intensity": 3,
+    "question": "What kind of work makes time disappear for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 184,
+    "level": "surface",
+    "category": "work",
+    "intensity": 1,
+    "question": "Morning meetings or afternoon deep work?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Mornings",
+      "Afternoons"
+    ]
+  },
+  {
+    "id": 185,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's a job you romanticized as a kid?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 186,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "Do you like having a routine, or do you like variety at work?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Routine",
+      "Variety"
+    ]
+  },
+  {
+    "id": 187,
+    "level": "surface",
+    "category": "work",
+    "intensity": 3,
+    "question": "What's something you're better at now than you were two years ago?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 188,
+    "level": "surface",
+    "category": "work",
+    "intensity": 1,
+    "question": "Office snacks: sweet, salty, or both?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Sweet",
+      "Salty"
+    ]
+  },
+  {
+    "id": 189,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's a work skill you picked up the hard way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 190,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "Camera on or camera off, if you get a choice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Camera on",
+      "Camera off"
+    ]
+  },
+  {
+    "id": 191,
+    "level": "surface",
+    "category": "work",
+    "intensity": 4,
+    "question": "What does a good boss feel like to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 192,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's your ideal 'I got a lot done' feeling?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 193,
+    "level": "surface",
+    "category": "work",
+    "intensity": 1,
+    "question": "To-do list or memory?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "To-do list",
+      "Memory"
+    ]
+  },
+  {
+    "id": 194,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's a totally different job you'd try for a month?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 195,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "Do you like mentoring, being mentored, or both?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Mentoring",
+      "Being mentored"
+    ]
+  },
+  {
+    "id": 196,
+    "level": "surface",
+    "category": "work",
+    "intensity": 4,
+    "question": "When do you feel most competent?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 197,
+    "level": "surface",
+    "category": "work",
+    "intensity": 1,
+    "question": "Friday energy or Monday reset — which is more you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Friday",
+      "Monday"
+    ]
+  },
+  {
+    "id": 198,
+    "level": "surface",
+    "category": "work",
+    "intensity": 2,
+    "question": "What's a tiny workplace luxury that matters more than it should?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 199,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's a place in your town that feels like yours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 200,
+    "level": "surface",
+    "category": "places",
+    "intensity": 1,
+    "question": "Coffee shop, park, or bookstore?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Coffee shop",
+      "Bookstore"
+    ]
+  },
+  {
+    "id": 201,
+    "level": "surface",
+    "category": "places",
+    "intensity": 4,
+    "question": "Where do you go when you need to think?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 202,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's a view you never get tired of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 203,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "Crowded city night or quiet neighborhood evening?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "City night",
+      "Quiet evening"
+    ]
+  },
+  {
+    "id": 204,
+    "level": "surface",
+    "category": "places",
+    "intensity": 1,
+    "question": "Window table or corner booth?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Window",
+      "Corner booth"
+    ]
+  },
+  {
+    "id": 205,
+    "level": "surface",
+    "category": "places",
+    "intensity": 3,
+    "question": "What's a place that always makes you feel smaller in a good way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 206,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's your favorite kind of weather to be outside in?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 207,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "Homebody hangout or 'let's go somewhere'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Homebody",
+      "Let's go out"
+    ]
+  },
+  {
+    "id": 208,
+    "level": "surface",
+    "category": "places",
+    "intensity": 1,
+    "question": "Sunrise or sunset?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Sunrise",
+      "Sunset"
+    ]
+  },
+  {
+    "id": 209,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's a building, street, or trail you'd give a tour of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 210,
+    "level": "surface",
+    "category": "places",
+    "intensity": 3,
+    "question": "Where were you the last time you thought, 'I like my life right now'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 211,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's your ideal background noise: people, nature, or quiet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "People",
+      "Quiet"
+    ]
+  },
+  {
+    "id": 212,
+    "level": "surface",
+    "category": "places",
+    "intensity": 1,
+    "question": "Porch, balcony, or none of the above?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Porch / balcony",
+      "Neither"
+    ]
+  },
+  {
+    "id": 213,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "What's a place you keep meaning to go back to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 214,
+    "level": "surface",
+    "category": "places",
+    "intensity": 2,
+    "question": "Farmer's market energy or midnight diner energy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Farmer's market",
+      "Midnight diner"
+    ]
+  },
+  {
+    "id": 215,
+    "level": "surface",
+    "category": "places",
+    "intensity": 3,
+    "question": "If someone visited you for 24 hours, where would you take them first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 216,
+    "level": "surface",
+    "category": "places",
+    "intensity": 1,
+    "question": "Lights low or bright room?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Lights low",
+      "Bright room"
+    ]
+  },
+  {
+    "id": 217,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "Morning person or night owl?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Morning person",
+      "Night owl"
+    ]
+  },
+  {
+    "id": 218,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "What's your ideal slow morning look like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 219,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "Plan the weekend or see what happens?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Plan it",
+      "See what happens"
+    ]
+  },
+  {
+    "id": 220,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "Phone on the table or phone in another room?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "On the table",
+      "Another room"
+    ]
+  },
+  {
+    "id": 221,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 4,
+    "question": "What does a restful day actually require for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 222,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "What's a small daily ritual you protect?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 223,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "Big breakfast or skip-to-lunch?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Big breakfast",
+      "Skip to lunch"
+    ]
+  },
+  {
+    "id": 224,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "What's your comfort clothing philosophy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 225,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "Clean as you go or chaos-then-reset?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Clean as you go",
+      "Chaos then reset"
+    ]
+  },
+  {
+    "id": 226,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 4,
+    "question": "What time of day do you feel most like yourself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 227,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "Showers: morning or night?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Morning",
+      "Night"
+    ]
+  },
+  {
+    "id": 228,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "What's something you do to make a regular day feel nicer?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 229,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "Guest-ready home or lived-in home?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Guest-ready",
+      "Lived-in"
+    ]
+  },
+  {
+    "id": 230,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "Candles / cozy lighting: yes or extra?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "Extra"
+    ]
+  },
+  {
+    "id": 231,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 4,
+    "question": "What's a habit you're quietly proud of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 232,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "What's your relationship with alarms and snooze buttons?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 233,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 2,
+    "question": "Cooking night or takeout night when you're tired?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Cooking",
+      "Takeout"
+    ]
+  },
+  {
+    "id": 234,
+    "level": "surface",
+    "category": "lifestyle",
+    "intensity": 1,
+    "question": "One long walk or a short workout?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Long walk",
+      "Short workout"
+    ]
+  },
+  {
+    "id": 235,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Would you rather be able to read minds or see the future?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Read minds",
+      "See the future"
+    ]
+  },
+  {
+    "id": 236,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Pancakes or waffles?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Pancakes",
+      "Waffles"
+    ]
+  },
+  {
+    "id": 237,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's a tiny hill you will die on?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 238,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Hot weather or cold weather?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Hot",
+      "Cold"
+    ]
+  },
+  {
+    "id": 239,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's the funniest thing that's happened to you recently?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 240,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Text essay or voice note?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Text",
+      "Voice note"
+    ]
+  },
+  {
+    "id": 241,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's a nickname you've had, wanted, or refused?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 242,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Would you rather always be slightly early or slightly late?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Early",
+      "Late"
+    ]
+  },
+  {
+    "id": 243,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's your signature dance-at-a-wedding energy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 244,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Sweet popcorn or salty popcorn?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Sweet",
+      "Salty"
+    ]
+  },
+  {
+    "id": 245,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 3,
+    "question": "What's a story you love telling even if it makes you look silly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 246,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Invisible or flight?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Invisible",
+      "Flight"
+    ]
+  },
+  {
+    "id": 247,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's a weirdly specific thing that delights you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 248,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Board game night or movie night?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Board games",
+      "Movie night"
+    ]
+  },
+  {
+    "id": 249,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 2,
+    "question": "What's your go-to impression, joke, or bit?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 250,
+    "level": "surface",
+    "category": "fun",
+    "intensity": 1,
+    "question": "Would you rather have a rewind button or a pause button for life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Rewind",
+      "Pause"
+    ]
+  }
+]

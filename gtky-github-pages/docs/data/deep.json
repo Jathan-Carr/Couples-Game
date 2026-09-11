@@ -1,0 +1,3676 @@
+[
+  {
+    "id": 501,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "What's your favorite way to be loved?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 502,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "What makes you feel cared for in a way that's easy to miss?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 503,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "When you feel loved, what do you start doing differently?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 504,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "Do you fall in love with potential or with what's already there?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Potential",
+      "What's there"
+    ]
+  },
+  {
+    "id": 505,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "What does feeling chosen look like to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 506,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "What's a small loving gesture that means more than a big production?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 507,
+    "level": "deep",
+    "category": "love",
+    "intensity": 10,
+    "question": "What are you like when you feel securely loved?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 508,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "Words, presence, or follow-through — which feels most like love?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Words / presence",
+      "Follow-through"
+    ]
+  },
+  {
+    "id": 509,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "What do you hope people never have to earn from you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 510,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "How do you show love when you're tired?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 511,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "What's something about love you believe now that you didn't at 18?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 512,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "Is love, for you, more of a feeling or a practice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Feeling",
+      "Practice"
+    ]
+  },
+  {
+    "id": 513,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "What makes affection feel safe instead of performative?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 514,
+    "level": "deep",
+    "category": "love",
+    "intensity": 10,
+    "question": "What kind of love are you trying to become capable of giving?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 515,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "What do you want love to make room for in your life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 516,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "When do you feel most loving toward the world, not just a person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 517,
+    "level": "deep",
+    "category": "love",
+    "intensity": 7,
+    "question": "What's a myth about romance you're glad you unlearned?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 518,
+    "level": "deep",
+    "category": "love",
+    "intensity": 8,
+    "question": "How do you want to be loved on an ordinary Wednesday?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 519,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "What makes you feel truly understood?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 520,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "What does a real conversation require from you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 521,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "When do you feel most accompanied, even in silence?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 522,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "Do you connect through talking, doing, or sitting together?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Talking",
+      "Doing / sitting"
+    ]
+  },
+  {
+    "id": 523,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 10,
+    "question": "What do you wish people knew about how you attach to others?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 524,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "What makes you feel lonely even in a room of people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 525,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "What kind of check-in actually lands for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 526,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "Deep and rare, or frequent and light — what's your connection diet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Deep and rare",
+      "Frequent and light"
+    ]
+  },
+  {
+    "id": 527,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "What's something someone can do that makes you feel less alone in five minutes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 528,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 10,
+    "question": "Where do you still hope to be known more fully?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 529,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "What topic makes you feel closest to someone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 530,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "How do you know a connection is mutual, not just hoped-for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 531,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "Do you need a lot of togetherness, or a lot of thoughtful distance?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Togetherness",
+      "Thoughtful distance"
+    ]
+  },
+  {
+    "id": 532,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "What does being 'gotten' feel like in your body?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 533,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 10,
+    "question": "What's a kind of closeness you're still learning how to receive?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 534,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "When someone remembers a small detail about you, what does that do?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 535,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 8,
+    "question": "What makes community feel real instead of social?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 536,
+    "level": "deep",
+    "category": "connection",
+    "intensity": 7,
+    "question": "Who do you become around people who really see you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 537,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "When do you feel most like yourself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 538,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "What part of you is easy for people to see, and what part takes time?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 539,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "What name, role, or story about you feels most true?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 540,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "Are you more of a roots person or a becoming person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Roots",
+      "Becoming"
+    ]
+  },
+  {
+    "id": 541,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 10,
+    "question": "What is something you're afraid people will misunderstand about you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 542,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "Which parts of you are inherited, and which did you choose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 543,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "What community, culture, or place still lives in how you move through the world?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 544,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "When have you felt like you had to translate yourself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 545,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "Do you feel more like yourself in familiar rooms or in new ones?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Familiar",
+      "New"
+    ]
+  },
+  {
+    "id": 546,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 10,
+    "question": "What do you want to be known for besides what you do?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 547,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "What's a contradiction in you that actually makes sense?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 548,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "Which season of you are you most loyal to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 549,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "What did you have to grow into before you could say it out loud?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 550,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 10,
+    "question": "Where are you still negotiating who you are with who you were expected to be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 551,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "Home in a city, home in people, or home in a feeling?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "People",
+      "A feeling / place"
+    ]
+  },
+  {
+    "id": 552,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "What makes you feel like you don't have to perform?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 553,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 7,
+    "question": "What's a thread that's been true about you since you were young?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 554,
+    "level": "deep",
+    "category": "identity",
+    "intensity": 8,
+    "question": "If you introduced yourself without your job or roles, what would you say?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 555,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "What do you like about how you show up in the world?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 556,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What story about yourself are you trying to retire?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 557,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "Do you see yourself more clearly in stillness or in action?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Stillness",
+      "Action"
+    ]
+  },
+  {
+    "id": 558,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What kind of attention feels nourishing versus exposing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 559,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 10,
+    "question": "Where are you learning to be on your own side?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 560,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "What compliment do you hope is true?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 561,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "How has your relationship with your reflection changed over time?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 562,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "Are you harder on yourself in private or in comparison?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Private",
+      "Comparison"
+    ]
+  },
+  {
+    "id": 563,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What would being gentler with yourself look like this week?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 564,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 10,
+    "question": "What part of you deserves more credit than you give it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 565,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "When do you feel at home in your own skin?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 566,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What outside measure of worth are you trying not to worship?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 567,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "Do you believe people when they say kind things about you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Often",
+      "It's hard"
+    ]
+  },
+  {
+    "id": 568,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What does dignity mean to you on a regular day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 569,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 10,
+    "question": "What are you practicing seeing in yourself that used to be invisible?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 570,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "Who in your life reflects you back in a way you trust?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 571,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 8,
+    "question": "What would you keep about yourself even if nobody praised it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 572,
+    "level": "deep",
+    "category": "selfImage",
+    "intensity": 7,
+    "question": "How do you talk to yourself when you make a small mistake?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 573,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What helps you tell the truth about how you feel?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 574,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "Do you open up in a rush or in careful layers?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "In a rush",
+      "In layers"
+    ]
+  },
+  {
+    "id": 575,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 10,
+    "question": "What does being emotionally safe with someone look like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 576,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What's hard for you to ask for even when you need it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 577,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "Humor, competence, or helpfulness — which can become your armor?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Humor / competence",
+      "Helpfulness"
+    ]
+  },
+  {
+    "id": 578,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "When you share something tender, what do you hope happens next?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 579,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 10,
+    "question": "What's a kind of honesty you're practicing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 580,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "Do you feel braver writing it or saying it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Writing",
+      "Saying it"
+    ]
+  },
+  {
+    "id": 581,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What makes you shut down, and what helps you come back?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 582,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 10,
+    "question": "Where do you still want to be met without having to explain everything?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 583,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "What's a small risk of honesty that paid off?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 584,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "How can someone make it easier for you to be real?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 585,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "Is vulnerability, for you, a gift or a last resort?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "A gift",
+      "A last resort"
+    ]
+  },
+  {
+    "id": 586,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What do you need to hear after you've been brave?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 587,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 10,
+    "question": "What are you tired of carrying alone that isn't a crisis — just heavy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 588,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 7,
+    "question": "Who taught you, accidentally or on purpose, that sharing could be safe?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 589,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What's the difference between oversharing and being known, for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 590,
+    "level": "deep",
+    "category": "vulnerability",
+    "intensity": 8,
+    "question": "What would it mean to be seen and still stay?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 591,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What is something you're afraid of losing that isn't a possession?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 592,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "Do your fears show up as control, avoidance, or overthinking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Control / avoidance",
+      "Overthinking"
+    ]
+  },
+  {
+    "id": 593,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What fear gets quieter when you're with the right person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 594,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 10,
+    "question": "What are you afraid people will think if they see the unedited you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 595,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "Courage for you: doing it scared, or waiting until you're ready?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Doing it scared",
+      "Waiting until ready"
+    ]
+  },
+  {
+    "id": 596,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What future version of life are you a little afraid to want?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 597,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "What everyday fear is actually about belonging?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 598,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 10,
+    "question": "How do you want to be supported when you're afraid — not fixed, supported?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 599,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What fear have you already walked through that changed you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 600,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "Does naming a fear make it smaller or bigger for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Smaller",
+      "Bigger"
+    ]
+  },
+  {
+    "id": 601,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What would you try if embarrassment wasn't on the table?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 602,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 10,
+    "question": "What kind of safety lets your nervous system believe you're okay?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 603,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "Are you more afraid of being too much or not enough?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Too much",
+      "Not enough"
+    ]
+  },
+  {
+    "id": 604,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What fear is really a longing in disguise?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 605,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "When you're scared, do you want company or competence from others?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Company",
+      "Competence"
+    ]
+  },
+  {
+    "id": 606,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 8,
+    "question": "What does bravery look like in your actual life, not in movies?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 607,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 10,
+    "question": "What are you learning to trust despite the fear?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 608,
+    "level": "deep",
+    "category": "fear",
+    "intensity": 7,
+    "question": "What fear did someone help you put down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 609,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What kind of person do you want to become?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 610,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What are you in the middle of becoming, even if it's unfinished?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 611,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What old survival strategy are you trying to outgrow?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 612,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 10,
+    "question": "What do you wish you could tell your younger self — without rewriting their path?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 613,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "Growth for you: more softness, more backbone, or both?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Softness",
+      "Backbone"
+    ]
+  },
+  {
+    "id": 614,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What are you practicing that nobody can see yet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 615,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 10,
+    "question": "What hurt taught you something you still wouldn't choose again — and that's okay?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 616,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "Do you grow more from love or from limits?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Love",
+      "Limits"
+    ]
+  },
+  {
+    "id": 617,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What does healing look like on a Tuesday, not a milestone day?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 618,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 10,
+    "question": "Where are you asking more of yourself in a way that feels fair?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 619,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What are you unlearning that used to feel like personality?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 620,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "Who are you becoming in relationships, specifically?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 621,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "Is your growth louder in how you rest or how you work?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Rest",
+      "Work"
+    ]
+  },
+  {
+    "id": 622,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What would 'integrated' feel like for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 623,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 10,
+    "question": "What part of your story are you trying to hold with more compassion?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 624,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What teacher, book, or season changed your inner weather?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 625,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "What are you no longer available for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 626,
+    "level": "deep",
+    "category": "growth",
+    "intensity": 8,
+    "question": "How will you know you're growing in the direction you mean to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 627,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "What's a small regret that taught you a preference?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 628,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What do you wish you'd said sooner in a relationship that still matters?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 629,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "Do you regret things you did, or things you didn't do, more often?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Things I did",
+      "Things I didn't"
+    ]
+  },
+  {
+    "id": 630,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What would you do differently with a year of your life, knowing what you know?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 631,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 10,
+    "question": "How do you forgive yourself without pretending it didn't happen?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 632,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "Is there a door you didn't walk through that still waves sometimes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 633,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What kindness do you wish you'd offered — including to yourself?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 634,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "Would you rather redo a conversation or a decision?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Conversation",
+      "Decision"
+    ]
+  },
+  {
+    "id": 635,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What did regret teach you about your values?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 636,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 10,
+    "question": "What are you trying not to turn into a life sentence?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 637,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "How do you want people to talk with you about the past?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 638,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What's a 'I knew better and still' moment you're gentler about now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 639,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "Do you make peace by understanding or by making amends?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Understanding",
+      "Amends"
+    ]
+  },
+  {
+    "id": 640,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What would repairing something still possible look like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 641,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 10,
+    "question": "What do you hope you won't regret about this season of your life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 642,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 7,
+    "question": "What's a chance you didn't take that you're oddly grateful about now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 643,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "How do you want to treat future-you when present-you is unsure?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 644,
+    "level": "deep",
+    "category": "regret",
+    "intensity": 8,
+    "question": "What does a clean goodbye mean to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 645,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What does happiness mean to you, in practice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 646,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "What makes a day feel like it counted?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 647,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "Where do you find meaning that isn't productivity?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 648,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 10,
+    "question": "What do you want your life to have been about, besides achievement?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 649,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "Beauty, usefulness, or love — which orients you most?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Beauty / love",
+      "Usefulness"
+    ]
+  },
+  {
+    "id": 650,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What ordinary scene feels sacred to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 651,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "Do you look for meaning or make it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Look for it",
+      "Make it"
+    ]
+  },
+  {
+    "id": 652,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What question do you keep living inside of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 653,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 10,
+    "question": "When have you felt part of something larger than your own story?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 654,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "What do you want more of: wonder, peace, or purpose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Wonder / peace",
+      "Purpose"
+    ]
+  },
+  {
+    "id": 655,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What loss of meaning would actually scare you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 656,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "Nature, art, people, or ideas — where does awe live?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Nature / art",
+      "People / ideas"
+    ]
+  },
+  {
+    "id": 657,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What makes suffering feel less pointless, if anything does?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 658,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 10,
+    "question": "How do you want to be remembered by the people who really knew you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 659,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "Is a good life, to you, more peaceful or more alive?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Peaceful",
+      "Alive"
+    ]
+  },
+  {
+    "id": 660,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What are you loyal to even when it's inconvenient?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 661,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 8,
+    "question": "What does 'enough' mean in a life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 662,
+    "level": "deep",
+    "category": "meaning",
+    "intensity": 7,
+    "question": "Where do you feel most awake?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 663,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What kind of work or offering feels like it uses the real you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 664,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "Do you think of purpose as a calling or as a series of seasons?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "A calling",
+      "Seasons"
+    ]
+  },
+  {
+    "id": 665,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "Who are you hoping to be useful to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 666,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 10,
+    "question": "What would you still do if nobody clapped?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 667,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "Purpose in public or purpose in private care?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Public",
+      "Private care"
+    ]
+  },
+  {
+    "id": 668,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What problem in the world quietly bothers you in a personal way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 669,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "Are you building, healing, teaching, or making?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Building / making",
+      "Healing / teaching"
+    ]
+  },
+  {
+    "id": 670,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What does a purposeful week contain?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 671,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 10,
+    "question": "Where might you be confusing other people's purpose with yours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 672,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "If purpose had a texture, would it be ambitious or quiet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Ambitious",
+      "Quiet"
+    ]
+  },
+  {
+    "id": 673,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What gift of yours wants a better home?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 674,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 10,
+    "question": "What are you willing to be mediocre at so you can be devoted to something else?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 675,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "Service, craft, or relationship as your main offering?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Service / craft",
+      "Relationship"
+    ]
+  },
+  {
+    "id": 676,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "How do you want your days to feel if the big dream takes years?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 677,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What would it mean to live on purpose without being self-important?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 678,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 7,
+    "question": "Who benefits when you're at your most honest?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 679,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 8,
+    "question": "What are you here to practice, even if you never master it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 680,
+    "level": "deep",
+    "category": "purpose",
+    "intensity": 10,
+    "question": "What legacy is small enough to start this year?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 681,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "What do you hope is true about your life in five years?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 682,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What kind of older person do you want to be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 683,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "Adventure or rootedness in the next chapter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Adventure",
+      "Rootedness"
+    ]
+  },
+  {
+    "id": 684,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What are you planting now that you won't harvest soon?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 685,
+    "level": "deep",
+    "category": "future",
+    "intensity": 10,
+    "question": "What future are you a little scared you might actually get?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 686,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "Do you plan the future or listen for it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Plan",
+      "Listen"
+    ]
+  },
+  {
+    "id": 687,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What do you want more time for before life gets louder again?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 688,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "City, somewhere quieter, or you don't know yet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "City",
+      "Quieter"
+    ]
+  },
+  {
+    "id": 689,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "Who do you want beside you in the ordinary future, not just the highlight reel?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 690,
+    "level": "deep",
+    "category": "future",
+    "intensity": 10,
+    "question": "What would you like to be proud of when you look back at this age?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 691,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "Hope for you: a feeling or a discipline?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Feeling",
+      "Discipline"
+    ]
+  },
+  {
+    "id": 692,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What are you unwilling to postpone indefinitely?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 693,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "More freedom or more belonging ahead?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Freedom",
+      "Belonging"
+    ]
+  },
+  {
+    "id": 694,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "How do you want to spend a random Thursday at 70?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 695,
+    "level": "deep",
+    "category": "future",
+    "intensity": 10,
+    "question": "What future conversation do you hope you'll be brave enough to have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 696,
+    "level": "deep",
+    "category": "future",
+    "intensity": 7,
+    "question": "Would you rather know the plot or keep the surprise?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Know the plot",
+      "Keep the surprise"
+    ]
+  },
+  {
+    "id": 697,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What does a life with enough softness in it look like from here?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 698,
+    "level": "deep",
+    "category": "future",
+    "intensity": 8,
+    "question": "What are you building that isn't a career?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 699,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What value do you hope people can feel in how you treat them?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 700,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Honesty or harmony, when they collide in a small way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Honesty",
+      "Harmony"
+    ]
+  },
+  {
+    "id": 701,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What belief about people have you earned the hard way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 702,
+    "level": "deep",
+    "category": "values",
+    "intensity": 10,
+    "question": "What are you not willing to become, even if it would be easier?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 703,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Loyalty, curiosity, or justice — which sits at your table first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Loyalty / curiosity",
+      "Justice"
+    ]
+  },
+  {
+    "id": 704,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "Where do your values show up when nobody is grading you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 705,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Do you believe people can change in the ways that matter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "I'm careful"
+    ]
+  },
+  {
+    "id": 706,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What does a good person mean to you, without cliché?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 707,
+    "level": "deep",
+    "category": "values",
+    "intensity": 10,
+    "question": "What value did you inherit, and which one did you choose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 708,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Faith, doubt, or a private mix — how do you live with big questions?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Faith / devotion",
+      "Doubt / mix"
+    ]
+  },
+  {
+    "id": 709,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What line will you not cross to be liked?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 710,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "How do you want to use whatever power you have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 711,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Is kindness the floor or the ceiling for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "The floor",
+      "The ceiling"
+    ]
+  },
+  {
+    "id": 712,
+    "level": "deep",
+    "category": "values",
+    "intensity": 10,
+    "question": "What would it cost you to live more aligned — and is it worth it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 713,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What do you owe strangers, in your own ethics?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 714,
+    "level": "deep",
+    "category": "values",
+    "intensity": 7,
+    "question": "Rules or wisdom — what do you trust more in gray areas?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Rules",
+      "Wisdom"
+    ]
+  },
+  {
+    "id": 715,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What belief keeps you company when things are uncertain?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 716,
+    "level": "deep",
+    "category": "values",
+    "intensity": 8,
+    "question": "What does integrity look like when you're tired and nobody would know?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 717,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "What makes a relationship feel strong to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 718,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "Repair or romance — which do you think keeps a bond alive?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Repair",
+      "Romance"
+    ]
+  },
+  {
+    "id": 719,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 10,
+    "question": "What are you still learning about being close to someone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 720,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "How do you want to fight — if you have to — with someone you love?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 721,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "Independence together or we-ness, as a default?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Independence",
+      "We-ness"
+    ]
+  },
+  {
+    "id": 722,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "What does devotion look like without self-erasure?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 723,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 10,
+    "question": "Where do you need more courage in how you love people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 724,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "Daily togetherness or spaciousness with deep reunions?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Daily togetherness",
+      "Spaciousness"
+    ]
+  },
+  {
+    "id": 725,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "What promise do you try to keep in every important relationship?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 726,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 10,
+    "question": "What kind of partner, friend, or family member are you trying to be when it's hard?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 727,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "What does trust rebuild from, for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 728,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "Neediness versus care — where do you draw a kind line?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 729,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "How do you want someone to love you when you are not impressive?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 730,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 10,
+    "question": "What are you done pretending doesn't matter in closeness?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 731,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "Shared values or shared delight — which is the load-bearing wall?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Values",
+      "Delight"
+    ]
+  },
+  {
+    "id": 732,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "What does a home with another person feel like, if it's going well?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 733,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 8,
+    "question": "When you imagine lasting love, what is actually happening on a random weekend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 734,
+    "level": "deep",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "What do you hope people feel after they've been in a relationship with you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 735,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "What do you need most when you are not okay?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 736,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "Reassurance, space, or practical help — which is your first language?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Reassurance / space",
+      "Practical help"
+    ]
+  },
+  {
+    "id": 737,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 10,
+    "question": "What need do you still feel awkward naming?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 738,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "How can someone love you in a way your nervous system believes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 739,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "Do you need to be asked, or do you need people to notice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Asked",
+      "Noticed"
+    ]
+  },
+  {
+    "id": 740,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "What does rest require for you besides sleep?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 741,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 10,
+    "question": "Where have you been over-functioning instead of asking?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 742,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "Touch, words, or time — which fills you fastest when you're depleted?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Touch / words",
+      "Time"
+    ]
+  },
+  {
+    "id": 743,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "What need, when met, makes all the other ones quieter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 744,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 10,
+    "question": "What are you learning you cannot outsource?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 745,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "Is it easier for you to give care or receive it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Give",
+      "Receive"
+    ]
+  },
+  {
+    "id": 746,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "What kind of consistency helps you feel secure?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 747,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "When your needs conflict with someone else's, what do you hope happens?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 748,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 8,
+    "question": "What does being emotionally fed look like in a week?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 749,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 10,
+    "question": "What need did you used to call 'too much'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 750,
+    "level": "deep",
+    "category": "needs",
+    "intensity": 7,
+    "question": "Solitude as a need or connection as a need — which runs out first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Solitude",
+      "Connection"
+    ]
+  }
+]

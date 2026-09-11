@@ -1,0 +1,21 @@
+{
+  "name": "gtky",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host --port 4721",
+    "build": "vite build --outDir docs --emptyOutDir",
+    "preview": "vite preview --host --port 4721",
+    "questions": "node scripts/build-questions.mjs",
+    "pack": "node scripts/pack-github.mjs"
+  },
+  "devDependencies": {
+    "vite": "^8.3.0"
+  },
+  "dependencies": {
+    "lz-string": "^1.5.0",
+    "peerjs": "^1.5.5",
+    "qrcode": "^1.5.4"
+  }
+}

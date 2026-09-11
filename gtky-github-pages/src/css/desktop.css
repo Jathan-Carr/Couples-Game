@@ -1,0 +1,16 @@
+@media (min-width: 851px) {
+  .nav-kicker { display: inline; }
+  .play-layout {
+    grid-template-columns: 240px 1fr;
+    align-items: start;
+  }
+  .side-panel { position: sticky; top: 92px; }
+  .actions-row.three { display: grid; grid-template-columns: 1fr 1fr 1fr; }
+  .reveal-grid.two { grid-template-columns: 1fr 1fr; }
+  .duo-layout {
+    display: grid;
+    grid-template-columns: 0.85fr 1.15fr;
+    gap: 3rem;
+    align-items: center;
+  }
+}

@@ -1,0 +1,3757 @@
+[
+  {
+    "id": 251,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "What's something people often get right about you on the first meeting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 252,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What's something people often misunderstand about you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 253,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Are you more of a planner or an improviser?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Planner",
+      "Improviser"
+    ]
+  },
+  {
+    "id": 254,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What trait of yours is both a gift and a headache?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 255,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Do you process out loud or quietly first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Out loud",
+      "Quietly first"
+    ]
+  },
+  {
+    "id": 256,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 6,
+    "question": "When do you feel most like the 'real' version of yourself around others?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 257,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "What's a compliment you never know how to receive?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 258,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What does confidence look like on you, not on other people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 259,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Introvert battery or extrovert battery, in practice?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Needs solitude",
+      "Needs people"
+    ]
+  },
+  {
+    "id": 260,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What's a small decision that actually says a lot about you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 261,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 7,
+    "question": "What are you like when you feel safe?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 262,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Are you more loyal to routines or to moods?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Routines",
+      "Moods"
+    ]
+  },
+  {
+    "id": 263,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What's a label you've been given that never quite fit?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 264,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Do you remember facts or feelings from a conversation more?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Facts",
+      "Feelings"
+    ]
+  },
+  {
+    "id": 265,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What's something you're stubborn about in a way you respect?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 266,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 6,
+    "question": "How do you know when you actually trust someone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 267,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Are you funnier in a group or one-on-one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Group",
+      "One-on-one"
+    ]
+  },
+  {
+    "id": 268,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 5,
+    "question": "What's a part of your personality you grew into rather than were born with?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 269,
+    "level": "personal",
+    "category": "personality",
+    "intensity": 4,
+    "question": "Do you like being asked a lot of questions, or does it feel like a spotlight?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I like it",
+      "Spotlight"
+    ]
+  },
+  {
+    "id": 270,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "What makes you feel like someone is actually your friend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 271,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "What's your favorite way to spend time with a close friend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 272,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Do you prefer a wide circle or a tiny inner circle?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Wide circle",
+      "Tiny circle"
+    ]
+  },
+  {
+    "id": 273,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 7,
+    "question": "What's something a friend did that you still think about, in a good way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 274,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "How do you usually show people you care?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 275,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Are you the planner of the hangout or the grateful plus-one?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Planner",
+      "Plus-one"
+    ]
+  },
+  {
+    "id": 276,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "What do you need from friends when you're having a rough week?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 277,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 7,
+    "question": "What's hard for you about staying close to people over time?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 278,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Voice notes, long texts, or 'want to call?'",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Voice notes / texts",
+      "Calls"
+    ]
+  },
+  {
+    "id": 279,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "What's a friendship rule you didn't know you had until someone broke it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 280,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Inside jokes or deep talks — which bonds you faster?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Inside jokes",
+      "Deep talks"
+    ]
+  },
+  {
+    "id": 281,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 7,
+    "question": "Who has influenced the kind of friend you try to be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 282,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "How do you handle it when a friend needs space?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 283,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Are you easy to make plans with, or do you need a runway?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Easy",
+      "Need a runway"
+    ]
+  },
+  {
+    "id": 284,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "What's something you wish friends asked you more often?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 285,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 7,
+    "question": "When have you felt most chosen as a friend?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 286,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Group hang or one-on-one catch-up?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Group",
+      "One-on-one"
+    ]
+  },
+  {
+    "id": 287,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 5,
+    "question": "What's your apology style with friends?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 288,
+    "level": "personal",
+    "category": "friendship",
+    "intensity": 4,
+    "question": "Do you remember birthdays, or are you the 'I'm sorry I'm late' person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I remember",
+      "I'm late-ish"
+    ]
+  },
+  {
+    "id": 289,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What makes you feel appreciated by someone close to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 290,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 6,
+    "question": "What helps you feel comfortable around someone new?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 291,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Quality time, words, or helpful actions — which lands first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Time / words",
+      "Helpful actions"
+    ]
+  },
+  {
+    "id": 292,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What's a green flag you notice faster than you used to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 293,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "How do you like to be checked on?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 294,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What's something that helps you feel close after you've been busy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 295,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Do you fall into closeness quickly or slowly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Quickly",
+      "Slowly"
+    ]
+  },
+  {
+    "id": 296,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 6,
+    "question": "What does a secure relationship feel like in ordinary Tuesday terms?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 297,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What's a boundary you communicate better now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 298,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Big talk at night or over breakfast?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Night",
+      "Breakfast"
+    ]
+  },
+  {
+    "id": 299,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "What makes you feel respected when you disagree?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 300,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "How do you like to celebrate small wins with someone?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 301,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Public affection or private affection, if you had to pick a default?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Public",
+      "Private"
+    ]
+  },
+  {
+    "id": 302,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 6,
+    "question": "What's something you hope people never have to guess about you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 303,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What does 'being on your team' look like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 304,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Do you like surprise plans or shared planning?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Surprises",
+      "Shared planning"
+    ]
+  },
+  {
+    "id": 305,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 7,
+    "question": "When you miss someone, what do you actually miss?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 306,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 5,
+    "question": "What's a tiny ritual that makes a relationship feel like a relationship?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 307,
+    "level": "personal",
+    "category": "relationships",
+    "intensity": 4,
+    "question": "Repair after conflict: talk it out soon or take a beat first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Soon",
+      "Take a beat"
+    ]
+  },
+  {
+    "id": 308,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "What's something you're currently trying to get better at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 309,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What's a goal you want that isn't impressive on paper but matters to you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 310,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Do you like big five-year plans or next-three-months plans?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Five years",
+      "Three months"
+    ]
+  },
+  {
+    "id": 311,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 7,
+    "question": "What's something you've always wanted to learn?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 312,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What would 'a good year' look like for you, honestly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 313,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Are you more motivated by a deadline or by a vibe?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Deadline",
+      "Vibe"
+    ]
+  },
+  {
+    "id": 314,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What's a skill you wish you had more time for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 315,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 7,
+    "question": "What kind of life are you quietly building toward?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 316,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Public accountability or private notebooks?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Public",
+      "Private"
+    ]
+  },
+  {
+    "id": 317,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What's a goal you released, and how did that feel?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 318,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Would you rather master one thing or try ten?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Master one",
+      "Try ten"
+    ]
+  },
+  {
+    "id": 319,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 7,
+    "question": "What does progress feel like in your body, not just on a list?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 320,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "Who do you become a little more like when you're chasing something?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 321,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Morning ambition or late-night ambition?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Morning",
+      "Late night"
+    ]
+  },
+  {
+    "id": 322,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What's a small goal you could finish this month that would feel real?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 323,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 7,
+    "question": "What are you unwilling to sacrifice for a goal?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 324,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Do you like vision boards, spreadsheets, or neither?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Visual / lists",
+      "Neither"
+    ]
+  },
+  {
+    "id": 325,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 5,
+    "question": "What's a dream you don't talk about much yet?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 326,
+    "level": "personal",
+    "category": "goals",
+    "intensity": 4,
+    "question": "Finish what you start, or follow the spark?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Finish",
+      "Follow the spark"
+    ]
+  },
+  {
+    "id": 327,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "What's something you're really proud of?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 328,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's a quiet win nobody clapped for that still counts?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 329,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Do you celebrate wins or immediately look at the next thing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Celebrate",
+      "Next thing"
+    ]
+  },
+  {
+    "id": 330,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 6,
+    "question": "What's something you finished that you weren't sure you could?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 331,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's a compliment you actually believed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 332,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Would you rather be known for talent or for follow-through?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Talent",
+      "Follow-through"
+    ]
+  },
+  {
+    "id": 333,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's a hard thing you did that looks easy in hindsight?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 334,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 6,
+    "question": "Who helped you become someone who could do that?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 335,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Trophies and titles, or private proof?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Titles",
+      "Private proof"
+    ]
+  },
+  {
+    "id": 336,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's something you taught yourself that still surprises you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 337,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 7,
+    "question": "When did you last feel proud in a way that wasn't about other people?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 338,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Do you keep old certificates, tickets, or notes?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "Not really"
+    ]
+  },
+  {
+    "id": 339,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's a 'small' skill you're quietly excellent at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 340,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 6,
+    "question": "What's an accomplishment that cost more than people know?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 341,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Team win or solo win — which tastes better?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Team",
+      "Solo"
+    ]
+  },
+  {
+    "id": 342,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's something you want to be proud of a year from now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 343,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 4,
+    "question": "Do you like being celebrated in the moment or later, privately?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "In the moment",
+      "Later / private"
+    ]
+  },
+  {
+    "id": 344,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 5,
+    "question": "What's a challenge you signed up for on purpose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 345,
+    "level": "personal",
+    "category": "accomplishments",
+    "intensity": 7,
+    "question": "How do you want people to describe what you're good at?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 346,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a memory that still feels warm when you revisit it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 347,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Smell, song, or place — what time-travels you fastest?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Smell / song",
+      "Place"
+    ]
+  },
+  {
+    "id": 348,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 6,
+    "question": "What's a moment you didn't know was important until later?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 349,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a childhood object, room, or meal you can still describe?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 350,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Do you keep a lot of photos, or just a few that matter?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Lots of photos",
+      "A few"
+    ]
+  },
+  {
+    "id": 351,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 7,
+    "question": "What's a memory you like telling because it shows who you were becoming?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 352,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's the kindest ordinary day you remember?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 353,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Are you the family historian or the 'wait, when was that?' person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Historian",
+      "Wait, when?"
+    ]
+  },
+  {
+    "id": 354,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 6,
+    "question": "What's a place that holds more than one version of you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 355,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a laugh you can still hear if you think about it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 356,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Souvenirs or stories — how do you keep trips?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Souvenirs",
+      "Stories"
+    ]
+  },
+  {
+    "id": 357,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 7,
+    "question": "What's something you wish you had asked someone while you still could?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 358,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a school-year memory that still feels vivid?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 359,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Do you remember conversations word-for-word or in impressions?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Word-for-word",
+      "Impressions"
+    ]
+  },
+  {
+    "id": 360,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a holiday or season that always comes with a specific memory?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 361,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 7,
+    "question": "What's a memory that taught you what you value?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 362,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 4,
+    "question": "Would you rather have a perfect video of a day, or keep it fuzzy and yours?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Perfect video",
+      "Keep it fuzzy"
+    ]
+  },
+  {
+    "id": 363,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's something you hope you never forget?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 364,
+    "level": "personal",
+    "category": "memories",
+    "intensity": 5,
+    "question": "What's a first — first job, first trip, first apartment — that still lives in you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 365,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's something you've learned from a mistake?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 366,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 6,
+    "question": "What's a belief you outgrew?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 367,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Do you change in leaps or in slow layers?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Leaps",
+      "Slow layers"
+    ]
+  },
+  {
+    "id": 368,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's a piece of advice you actually used?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 369,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What's something you're kinder about now than you used to be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 370,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Therapy talk, journaling, walking it out — what helps you grow?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Talking / writing",
+      "Walking it out"
+    ]
+  },
+  {
+    "id": 371,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's a fear that got smaller because you did the thing anyway?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 372,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 6,
+    "question": "Who has influenced you the most, and in what way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 373,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Do you like being told the hard truth or the gentle version first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Hard truth",
+      "Gentle first"
+    ]
+  },
+  {
+    "id": 374,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's a habit you built that quietly upgraded your life?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 375,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What's something you wish you were better at — and why that thing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 376,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Books, people, or lived experience as your main teacher?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Books / people",
+      "Lived experience"
+    ]
+  },
+  {
+    "id": 377,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's a version of you that you're grateful you aren't anymore?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 378,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 6,
+    "question": "How do you know you're actually growing, not just busy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 379,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Public resolutions or private experiments?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Public",
+      "Private"
+    ]
+  },
+  {
+    "id": 380,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's a compliment that became a standard you now try to live up to?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 381,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 7,
+    "question": "What did a difficult season teach you that a easy season couldn't?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 382,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 4,
+    "question": "Do you like before-and-after stories or in-progress stories?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Before / after",
+      "In progress"
+    ]
+  },
+  {
+    "id": 383,
+    "level": "personal",
+    "category": "growth",
+    "intensity": 5,
+    "question": "What's one thing you'd tell last-year's you without lecturing them?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 384,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What's a family tradition you actually like?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 385,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Are you more like one side of your family, or a mix nobody predicted?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "One side",
+      "A mix"
+    ]
+  },
+  {
+    "id": 386,
+    "level": "personal",
+    "category": "family",
+    "intensity": 6,
+    "question": "What's something you learned at home that you still use?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 387,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "How does your family show care, in their language?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 388,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Big family gatherings: energizing or exhausting?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Energizing",
+      "Exhausting"
+    ]
+  },
+  {
+    "id": 389,
+    "level": "personal",
+    "category": "family",
+    "intensity": 7,
+    "question": "What's a story your family tells about you that you have mixed feelings about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 390,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What kind of family member do you try to be?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 391,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Chosen family, given family, or both in different ways?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Chosen",
+      "Given"
+    ]
+  },
+  {
+    "id": 392,
+    "level": "personal",
+    "category": "family",
+    "intensity": 6,
+    "question": "What's something you hope to keep from how you were raised?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 393,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What's something you hope to do differently?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 394,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Phone calls, group chats, or seeing each other in person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Calls / chats",
+      "In person"
+    ]
+  },
+  {
+    "id": 395,
+    "level": "personal",
+    "category": "family",
+    "intensity": 7,
+    "question": "When have you felt most at home with the people who know your history?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 396,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What's a small family object, recipe, or phrase that carries a lot?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 397,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Do you like looking at old photos together?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "Not really"
+    ]
+  },
+  {
+    "id": 398,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What's a family skill — cooking, fixing, hosting — that got passed down?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 399,
+    "level": "personal",
+    "category": "family",
+    "intensity": 7,
+    "question": "What does support from family look like when it's actually helpful?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 400,
+    "level": "personal",
+    "category": "family",
+    "intensity": 4,
+    "question": "Holidays: the whole production or keep it simple?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "The production",
+      "Keep it simple"
+    ]
+  },
+  {
+    "id": 401,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "Who in your wider circle feels like family even if they aren't?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 402,
+    "level": "personal",
+    "category": "family",
+    "intensity": 5,
+    "question": "What's a family value you still carry, even if you renamed it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 403,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "What's an opinion you hold that's milder than people expect?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 404,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's something you changed your mind about?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 405,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Do you like a good debate or does it drain you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I like it",
+      "It drains me"
+    ]
+  },
+  {
+    "id": 406,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's a hill that's actually a hill for you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 407,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Hot takes at dinner: fun or please no?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Fun",
+      "Please no"
+    ]
+  },
+  {
+    "id": 408,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 6,
+    "question": "How do you want people to disagree with you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 409,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's a popular opinion you don't share, without needing anyone to convert?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 410,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Do you decide quickly or collect a lot of input?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Decide quickly",
+      "Collect input"
+    ]
+  },
+  {
+    "id": 411,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's a topic you love talking about with someone who sees it differently?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 412,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 6,
+    "question": "When was the last time someone actually updated your view?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 413,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Would you rather be right or be kind, if you had to pick in a small moment?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Right",
+      "Kind"
+    ]
+  },
+  {
+    "id": 414,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's an opinion you keep because you lived it, not because you read it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 415,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Group consensus or 'I'll go with the flow'?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I want a say",
+      "I can flow"
+    ]
+  },
+  {
+    "id": 416,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's something you think is underrated?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 417,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 7,
+    "question": "What does it take for you to trust someone's judgment?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 418,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Strong opinions, loosely held — is that you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "No, I hold tight"
+    ]
+  },
+  {
+    "id": 419,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's a 'best of' list you could write instantly?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 420,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 4,
+    "question": "Do you like ranking things for fun?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "No"
+    ]
+  },
+  {
+    "id": 421,
+    "level": "personal",
+    "category": "opinions",
+    "intensity": 5,
+    "question": "What's a taste of yours that you stopped explaining?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 422,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "What's a lightly embarrassing story you don't mind telling?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 423,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's something awkward you did that you can laugh about now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 424,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Do you cringe later or in the moment?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Later",
+      "In the moment"
+    ]
+  },
+  {
+    "id": 425,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a social stumble you survived and even reused as a joke?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 426,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Would you rather trip in public or forget someone's name?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Trip",
+      "Forget a name"
+    ]
+  },
+  {
+    "id": 427,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 7,
+    "question": "What's an embarrassing moment that actually made you kinder?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 428,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a fashion, hair, or username choice from the past?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 429,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Do you replay conversations in the shower?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "Not really"
+    ]
+  },
+  {
+    "id": 430,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a time you misunderstood a situation completely?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 431,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Karaoke bravery or absolutely not?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Karaoke",
+      "Absolutely not"
+    ]
+  },
+  {
+    "id": 432,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's the funniest way you've been obviously wrong?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 433,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 7,
+    "question": "How do you recover when you feel awkward?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 434,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Would you rather send a text to the wrong person or wave at a stranger?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Wrong text",
+      "Wrong wave"
+    ]
+  },
+  {
+    "id": 435,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a compliment you took as an insult at first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 436,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Do you tell on yourself, or hope nobody noticed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I tell on myself",
+      "Hope nobody noticed"
+    ]
+  },
+  {
+    "id": 437,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a skill you attempted in public too soon?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 438,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 6,
+    "question": "What's something you used to hide that you don't hide as much?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 439,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 4,
+    "question": "Cringe comedy: love it or too close to home?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Love it",
+      "Too close"
+    ]
+  },
+  {
+    "id": 440,
+    "level": "personal",
+    "category": "embarrassing",
+    "intensity": 5,
+    "question": "What's a nickname origin story that's a little mortifying?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 441,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "What's a habit that makes your day run smoother?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 442,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a habit you're trying to be more gentle about changing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 443,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Same breakfast or variety?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Same",
+      "Variety"
+    ]
+  },
+  {
+    "id": 444,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's something you do on autopilot that you'd like to do on purpose?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 445,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Phone-first morning or delay the scroll?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Phone first",
+      "Delay it"
+    ]
+  },
+  {
+    "id": 446,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 6,
+    "question": "What habit of yours is really a form of self-respect?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 447,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a tiny organizing system that you swear by?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 448,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Early errands or weekend pile-up?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Early errands",
+      "Weekend pile-up"
+    ]
+  },
+  {
+    "id": 449,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a habit you copied from someone you admire?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 450,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 6,
+    "question": "What do you do when you notice you're avoiding something?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 451,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Lists everywhere or trust the brain?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Lists",
+      "Trust the brain"
+    ]
+  },
+  {
+    "id": 452,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a wind-down habit that actually works?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 453,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Shoes by the door or shoes wherever they land?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "By the door",
+      "Wherever"
+    ]
+  },
+  {
+    "id": 454,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a weekly reset that helps you feel human again?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 455,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 7,
+    "question": "Which habit would you most like a friend to notice and cheer for?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 456,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Water bottle person: yes or I forget?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes",
+      "I forget"
+    ]
+  },
+  {
+    "id": 457,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a 'I'll just check quickly' habit you have?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 458,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 4,
+    "question": "Make the bed or leave it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Make it",
+      "Leave it"
+    ]
+  },
+  {
+    "id": 459,
+    "level": "personal",
+    "category": "habits",
+    "intensity": 5,
+    "question": "What's a hobby that became a habit without you planning it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 460,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What emotion is easiest for you to show?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 461,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 7,
+    "question": "What emotion do you tend to keep more private?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 462,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 4,
+    "question": "Do you cry at movies, speeches, or almost never in public?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Easily",
+      "Almost never"
+    ]
+  },
+  {
+    "id": 463,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What helps you come back to yourself after you get overwhelmed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 464,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 6,
+    "question": "How do you like people to respond when you're sad — space, company, or solutions?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Space / company",
+      "Solutions"
+    ]
+  },
+  {
+    "id": 465,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What makes you feel calm in someone else's presence?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 466,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 4,
+    "question": "Music, movement, or talking it out?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Music / movement",
+      "Talking"
+    ]
+  },
+  {
+    "id": 467,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 7,
+    "question": "What's a feeling you used to judge that you understand better now?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 468,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "When you're happy, how does it show?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 469,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 4,
+    "question": "Do you name your feelings out loud or keep them unnamed for a while?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Name them",
+      "Keep them unnamed"
+    ]
+  },
+  {
+    "id": 470,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 6,
+    "question": "What does support look like when you're anxious?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 471,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What kind of humor helps you when things are heavy?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 472,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 4,
+    "question": "Journal, voice memo, or a trusted person?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Write / record",
+      "A person"
+    ]
+  },
+  {
+    "id": 473,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What's a small thing that can shift your whole mood?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 474,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 6,
+    "question": "How can someone tell you're not okay even if you say you are?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 475,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 4,
+    "question": "Big feelings in the moment or delayed reaction?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "In the moment",
+      "Delayed"
+    ]
+  },
+  {
+    "id": 476,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "What makes you feel proud in a quiet way?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 477,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 7,
+    "question": "What's something that always makes you feel tender?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 478,
+    "level": "personal",
+    "category": "emotions",
+    "intensity": 5,
+    "question": "How do you celebrate when something goes right?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 479,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a life experience that split your story into before and after?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 480,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Would you rather collect experiences or build a nest?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Experiences",
+      "A nest"
+    ]
+  },
+  {
+    "id": 481,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 7,
+    "question": "What's something you did once that still teaches you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 482,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a trip, job, or season that stretched you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 483,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Comfort zone: expand on purpose or when life makes you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "On purpose",
+      "When life makes me"
+    ]
+  },
+  {
+    "id": 484,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 6,
+    "question": "What's a risk that was worth it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 485,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a first day you still remember — school, job, city?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 486,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Do you like being the new person or does it take a minute?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "I like it",
+      "It takes a minute"
+    ]
+  },
+  {
+    "id": 487,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 7,
+    "question": "What's an experience you want while you're still this version of you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 488,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's something ordinary you didn't know you'd miss until it changed?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 489,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "One big leap or lots of small experiments?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Big leap",
+      "Small experiments"
+    ]
+  },
+  {
+    "id": 490,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 6,
+    "question": "Who were you with during a moment that still feels defining?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 491,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a cultural, spiritual, or community experience that shaped you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 492,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Do you say yes first or no first?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Yes first",
+      "No first"
+    ]
+  },
+  {
+    "id": 493,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a skill you have only because life required it?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 494,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 6,
+    "question": "What's a chapter you'd title if your last few years were a book?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 495,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's something you tried because someone you trusted invited you?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 496,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Nostalgic about the past or hungry for the next thing?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Nostalgic",
+      "Hungry for next"
+    ]
+  },
+  {
+    "id": 497,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a place you lived, even briefly, that left a mark?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 498,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 5,
+    "question": "What's a conversation you still think about years later?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 499,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 7,
+    "question": "When did you surprise yourself by handling something well?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "same",
+      "predict",
+      "connect",
+      "different"
+    ]
+  },
+  {
+    "id": 500,
+    "level": "personal",
+    "category": "experiences",
+    "intensity": 4,
+    "question": "Do you like revisiting old chapters, or keep your eyes forward?",
+    "duoCompatible": true,
+    "duoTypes": [
+      "match",
+      "same",
+      "predict"
+    ],
+    "choices": [
+      "Revisit",
+      "Eyes forward"
+    ]
+  }
+]
